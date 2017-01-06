@@ -91,6 +91,7 @@ ENV/
 # Setting elastic search
 .vagrant
 .idea
+.idea/
 Data/
 Data/*
 disk.vdi

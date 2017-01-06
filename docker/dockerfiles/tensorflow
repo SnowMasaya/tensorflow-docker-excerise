@@ -12,7 +12,7 @@ RUN apt-get update && apt-get install -y \
     libpng12-dev \
     libzmq3-dev \
     pkg-config \
-    python3 \
+    pythont 3 \
     python3-pip \
     python3-numpy \
     python3-dev \
